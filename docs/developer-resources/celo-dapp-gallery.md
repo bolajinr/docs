@@ -255,3 +255,12 @@ Non-custodial multichain NFT marketplace, connected to Celo
 
 * [Website](https://raregems.io/)
 * [Celo NFT collections](https://raregems.io/celo)
+
+## NIfty Row NFT Marketplace for the unsung
+Nifty Row is being setup as an online NFT marketplace for unsung arts and crafts.  The marketplace will function as a traditional e-commerce platform with a broker model mediating between buyers and sellers of Digital art NFT, Music NFT and Physical art.
+
+* [Website] (https://www.niftyrow.io
+* [GitHub](https://github.com/Nifty-Row/)
+* 
+![image](https://user-images.githubusercontent.com/94475495/172204685-e16f6fc7-539d-4408-8cb3-2547b7d93076.png)
+
